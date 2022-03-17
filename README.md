@@ -1,5 +1,5 @@
 # Jérôme Le Champion
-👋 Hi, I’m Jérôme from France, living in Paris 🗼, FullStack Developper Freelance. I really enjoy learning new languages and frameworks in Web and Mobile. 
+👋 Hi, I’m Jérôme from France, living in Paris 🗼, FullStack Developper Freelance, my favorite stack is Postgres / Node / GraphQL / React. I really enjoy learning new languages and frameworks in Web and Mobile. 
 
 <!---
 jerome-lechampion/jerome-lechampion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
