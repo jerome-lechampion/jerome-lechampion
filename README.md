@@ -17,6 +17,9 @@ Actually:
 [![img_contact](./img/globe-light.svg)](https://jeromelechampion.fr#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://jeromelechampion.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![img_contact](./img/stack-overflow-light.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-light-mode-only)
+[![img_contact](./img/stack-overflow-dark.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/jeromelechampi1#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/jeromelechampi1st#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -42,7 +45,6 @@ Actually:
 <img align="left" alt="Mongo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Azure" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="padding-right:10px;" />
