@@ -17,9 +17,6 @@ Actually:
 [![img_contact](./img/globe-light.svg)](https://jeromelechampion.fr#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://jeromelechampion.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/stack-overflow-light.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-light-mode-only)
-[![img_contact](./img/stack-overflow-dark.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/jeromelechampi1#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/jeromelechampi1st#gh-dark-mode-only)
 &nbsp;&nbsp;
