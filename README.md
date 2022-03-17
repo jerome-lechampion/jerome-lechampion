@@ -17,8 +17,8 @@ Actually:
 [![img_contact](./img/globe-light.svg)](https://jeromelechampion.fr#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://jeromelechampion.fr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/youtube-light.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-light-mode-only)
-[![img_contact](./img/youtube-dark.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-dark-mode-only)
+[![img_contact](./img/terminal-light.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-light-mode-only)
+[![img_contact](./img/terminal-dark.svg)](https://stackoverflow.com/users/5468999/aznhar#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/jeromelechampi1#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/jeromelechampi1st#gh-dark-mode-only)
@@ -26,8 +26,8 @@ Actually:
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-le-champion-55381788/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-le-champion-55381788/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/linkedin-light.svg)](https://stackoverflow.com/users/5468999/aznhar/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://stackoverflow.com/users/5468999/aznhar/#gh-dark-mode-only)
+[![img_contact](./img/terminal-light.svg)](https://www.malt.fr/profile/jeromelechampion/#gh-light-mode-only)
+[![img_contact](./img/terminal-dark.svg)](https://www.malt.fr/profile/jeromelechampion/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
